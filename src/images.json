@@ -17,7 +17,7 @@
     {
         "id": 4,
         "name": "Jared Goff",
-        "image": "images/jared-goff.webp"
+        "image": "images/jared-goff.png"
     },
     {
         "id": 5,
@@ -32,7 +32,7 @@
     {
         "id": 7,
         "name": "Kyler Murray",
-        "image": "images/kyler-murray.webp"
+        "image": "images/kyler-murray.png"
     },
     {
         "id": 8,
@@ -47,7 +47,7 @@
     {
         "id": 10,
         "name": "Patrick Mahomes",
-        "image": "images/patrick-mahomes.webp"
+        "image": "images/patrick-mahomes.png"
     },
     {
         "id": 11,
@@ -57,6 +57,6 @@
     {
         "id": 12,
         "name": "Tom Brady",
-        "image": "images/tom-brady.webp"
+        "image": "images/tom-brady.png"
     }
 ]
