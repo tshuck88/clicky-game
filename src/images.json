@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Aaron Rodgers",
+        "image": "images/aaron-rodgers.png"
+    },
+    {
+        "id": 2,
+        "name": "Carson Wentz",
+        "image": "images/carson-wentz.png"
+    },
+    {
+        "id": 3,
+        "name": "Drew Brees",
+        "image": "images/drew-brees.png"
+    },
+    {
+        "id": 4,
+        "name": "Jared Goff",
+        "image": "images/jared-goff.webp"
+    },
+    {
+        "id": 5,
+        "name": "Jimmy Garoppolo",
+        "image": "images/jimmy-garoppolo.png"
+    },
+    {
+        "id": 6,
+        "name": "Kirk Cousins",
+        "image": "images/kirk-cousins.png"
+    },
+    {
+        "id": 7,
+        "name": "Kyler Murray",
+        "image": "images/kyler-murray.webp"
+    },
+    {
+        "id": 8,
+        "name": "Lamar Jackson",
+        "image": "images/lamar-jackson.png"
+    },
+    {
+        "id": 9,
+        "name": "Matt Ryan",
+        "image": "images/matt-ryan.png"
+    },
+    {
+        "id": 10,
+        "name": "Patrick Mahomes",
+        "image": "images/patrick-mahomes.webp"
+    },
+    {
+        "id": 11,
+        "name": "Russell Wilson",
+        "image": "images/russell-wilson.png"
+    },
+    {
+        "id": 12,
+        "name": "Tom Brady",
+        "image": "images/tom-brady.webp"
+    }
+]
