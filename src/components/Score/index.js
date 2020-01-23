@@ -1,8 +1,8 @@
 import React from "react";
 import "./style.css";
 
-function Title(props) {
-  return <h1 className="title">{props.children}</h1>;
+function Score(props) {
+  return <h1 className="score">{props.children}</h1>;
 }
 
-export default Title;
+export default Score;

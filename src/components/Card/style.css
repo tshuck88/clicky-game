@@ -4,18 +4,23 @@
     height: auto;
     margin: 1rem;
     position: relative;
-    width: 250px;
+    width: 200px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: left;
+    display: inline-block;
 }
 
-.card > .img-container {
+.card>.img-container {
     height: 100%;
     overflow: hidden;
     text-align: center;
     background: whitesmoke;
 }
 
-.card > .img-container>img {
+.card>.img-container>img {
     width: 100%
+}
+
+.card:hover {
+    box-shadow: none
 }
