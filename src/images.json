@@ -2,61 +2,73 @@
     {
         "id": 1,
         "name": "Aaron Rodgers",
-        "image": "images/aaron-rodgers.png"
+        "image": "images/aaron-rodgers.png",
+        "clicked": "false"
     },
     {
         "id": 2,
         "name": "Carson Wentz",
-        "image": "images/carson-wentz.png"
+        "image": "images/carson-wentz.png",
+        "clicked": "false"
     },
     {
         "id": 3,
         "name": "Drew Brees",
-        "image": "images/drew-brees.png"
+        "image": "images/drew-brees.png",
+        "clicked": "false"
     },
     {
         "id": 4,
         "name": "Jared Goff",
-        "image": "images/jared-goff.png"
+        "image": "images/jared-goff.png",
+        "clicked": "false"
     },
     {
         "id": 5,
         "name": "Jimmy Garoppolo",
-        "image": "images/jimmy-garoppolo.png"
+        "image": "images/jimmy-garoppolo.png",
+        "clicked": "false"
     },
     {
         "id": 6,
         "name": "Kirk Cousins",
-        "image": "images/kirk-cousins.png"
+        "image": "images/kirk-cousins.png",
+        "clicked": "false"
     },
     {
         "id": 7,
         "name": "Kyler Murray",
-        "image": "images/kyler-murray.png"
+        "image": "images/kyler-murray.png",
+        "clicked": "false"
     },
     {
         "id": 8,
         "name": "Lamar Jackson",
-        "image": "images/lamar-jackson.png"
+        "image": "images/lamar-jackson.png",
+        "clicked": "false"
     },
     {
         "id": 9,
         "name": "Matt Ryan",
-        "image": "images/matt-ryan.png"
+        "image": "images/matt-ryan.png",
+        "clicked": "false"
     },
     {
         "id": 10,
         "name": "Patrick Mahomes",
-        "image": "images/patrick-mahomes.png"
+        "image": "images/patrick-mahomes.png",
+        "clicked": "false"
     },
     {
         "id": 11,
         "name": "Russell Wilson",
-        "image": "images/russell-wilson.png"
+        "image": "images/russell-wilson.png",
+        "clicked": "false"
     },
     {
         "id": 12,
         "name": "Tom Brady",
-        "image": "images/tom-brady.png"
+        "image": "images/tom-brady.png",
+        "clicked": "false"
     }
 ]
